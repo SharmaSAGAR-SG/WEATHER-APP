@@ -42,8 +42,6 @@ Weather Application using Public API
 ## 🌐 Live Demo
 <img width="611" height="499" alt="Image" src="https://github.com/user-attachments/assets/4b137526-c9fb-4da0-81ac-b9ea75e648af" />
 
-## 📂 GitHub Repository
-👉 (Paste your GitHub repo link here)
 
 ## 👤 Author
 **SAGAR**
