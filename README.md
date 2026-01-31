@@ -40,7 +40,7 @@ Weather Application using Public API
 3. Enter a city name and click **Get Weather**
 
 ## 🌐 Live Demo
-👉 (Paste your GitHub Pages link here)
+<img width="611" height="499" alt="Image" src="https://github.com/user-attachments/assets/4b137526-c9fb-4da0-81ac-b9ea75e648af" />
 
 ## 📂 GitHub Repository
 👉 (Paste your GitHub repo link here)
