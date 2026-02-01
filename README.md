@@ -5,7 +5,7 @@ The application fetches real-time weather data from a public API and displays it
 
 COMPANY:CODTECH IT SOLUTIONS
 
-NAME:Sagar GAanesh Sharma
+NAME:Sagar Ganesh Sharma
 
 INTERN ID:CTISAK72
 
